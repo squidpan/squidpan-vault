@@ -1,0 +1,32 @@
+filters:
+  and:
+    - categories == link("Topics")
+formulas:
+  Untitled: ""
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - '!file.name.contains("Template")'
+        - file.tags.contains("pulsedata")
+    order:
+      - file.name
+      - tags
+      - type
+      - created
+      - last
+    sort:
+      - property: tags
+        direction: ASC
+      - property: categories
+        direction: ASC
+    columnSize: {}
+  - type: table
+    name: pulsedata
+    filters:
+      and:
+        - file.tags.contains("pulsedata")
+    order:
+      - file.name
+      - created

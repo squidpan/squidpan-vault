@@ -1,0 +1,18 @@
+filters:
+  and:
+    - categories == link("Installs")
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - '!file.name.contains("Template")'
+    order:
+      - file.name
+      - categories
+      - created
+      - last
+      - type
+      - apps
+      - title
+      - tags

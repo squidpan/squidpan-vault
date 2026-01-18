@@ -1,0 +1,19 @@
+filters:
+  and:
+    - categories == ["[[Troubleshoots]]"]
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - '!file.name.contains("Template")'
+    order:
+      - file.name
+      - categories
+      - author
+      - url
+      - topics
+      - created
+      - last
+      - published
+      - status

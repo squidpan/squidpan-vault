@@ -1,0 +1,29 @@
+filters:
+  and:
+    - categories.contains(link("Lessons"))
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - '!file.name.contains("Template")'
+    order:
+      - file.name
+      - categories
+      - type
+      - topics
+      - tags
+      - created
+      - last
+      - title
+      - subject
+      - author
+    sort:
+      - property: type
+        direction: ASC
+      - property: author
+        direction: DESC
+    columnSize:
+      file.name: 213
+      note.tags: 86
+      note.topics: 137

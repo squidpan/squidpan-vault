@@ -1,0 +1,24 @@
+filters:
+  and:
+    - categories == ["[[Letters]]"]
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - '!file.name.contains("Template")'
+    order:
+      - file.name
+      - topics
+      - subject
+      - created
+      - tags
+    sort:
+      - property: last
+        direction: ASC
+      - property: tags
+        direction: ASC
+    columnSize:
+      file.name: 215
+      note.categories: 107
+      note.topics: 119
