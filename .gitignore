@@ -9,3 +9,6 @@
 
 # Exclude macOS Finder (System Explorer) View States
 .DS_Store
+.obsidian/core-plugins.json
+.obsidian/publish.json
+.obsidian/core-plugins.json
