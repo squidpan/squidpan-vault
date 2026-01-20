@@ -35,6 +35,7 @@ Once a ticket is manually created from contents of email sent by clients they ar
 
 # Good email
 ---
+## Reynders (RMC) - Add Account to Goulston & Storrs Master Feed Sample of a good email
 > [!info-good email]-
 > On Mon, Sep 8, 2025 at 10:15 AM Miguel Sanchez <[miguel.sanchez@ridgelineapps.com](mailto:miguel.sanchez@ridgelineapps.com "mailto:miguel.sanchez@ridgelineapps.com")> wrote:
 Hello, 
