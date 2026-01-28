@@ -6,13 +6,13 @@ tags:
   - albums
   - references
 genre:
-  - "[[Rock]]"
-artist: "[[AC DC]]"
+  - "[[_jick/Rock]]"
+artist: "[[_jick/AC DC]]"
 year: 1977
 created: 2024-11-14
 rating: 6
 tracks:
-  - "[[I Got a Name]]"
+  - "[[_jick/I Got a Name]]"
   - "[[Hell aint a Bad Place to Be]]"
   - "[[Go Down]]"
 ---

@@ -6,8 +6,8 @@ tags:
   - albums
   - references
 genre:
-  - "[[Rock]]"
-artist: "[[NPQS]]"
+  - "[[_jick/References/Rock]]"
+artist: "[[_jick/References/NPQS]]"
 year: 2024
 created: 2024-11-01
 rating: 7

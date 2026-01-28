@@ -12,12 +12,12 @@ genre:
 artist:
   - ""
 year: 2025-03-10
-rating: 
+rating:
 albums:
   - "[[Toxic Markets]]"
-  - "[[bidnXask]]"
-music: 
-lyrics: 
+  - "[[_jick/bidnXask]]"
+music:
+lyrics:
 created: 2025-03-10
 ---
 

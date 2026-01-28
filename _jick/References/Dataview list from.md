@@ -21,4 +21,4 @@ created: 2025-02-01
 
 ### Links going out of a note
 > [!example] 
-> list from outgoing [[AC DC]]
+> list from outgoing [[_jick/References/AC DC]]

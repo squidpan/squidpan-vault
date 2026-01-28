@@ -20,7 +20,7 @@ created: 2025-08-22
 
 
 ## 
-[[Clean uninstall of Rancher Desktop]]
+[[_jick/Clean uninstall of Rancher Desktop]]
 
 
 Here’s a step-by-step guide to deploy **WordPress** and **MariaDB** using **Helm charts** from Docker Hub on your local **Kubernetes cluster** running via **Rancher Desktop** on **Pop!_OS 22.04 LTS**.

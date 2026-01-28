@@ -8,7 +8,7 @@ tags:
 genre:
   - "[[tributes]]"
 artist:
-  - "[[Gopi my man man]]"
+  - "[[_jick/Gopi my man man]]"
   - "[[trey]]"
   - "[[superman]]"
   - "[[Rafay]]"
@@ -22,7 +22,7 @@ music:
   - "[[good ol'Linux]]"
   - "[[new bids and ask]]"
 lyrics:
-  - "[[Diamonds and Rust]]"
+  - "[[_jick/Diamonds and Rust]]"
 created: 2025-03-05
 ---
 

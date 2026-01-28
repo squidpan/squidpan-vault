@@ -12,7 +12,7 @@ created: 2025-04-18
 ---
 ## Synopsis
 
-[[bh live 2025 2 hours plus of straight up guitar massacre standing up]]
+[[_jick/bh live 2025 2 hours plus of straight up guitar massacre standing up]]
 
 ## Set list
 

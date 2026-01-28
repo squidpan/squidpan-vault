@@ -13,7 +13,7 @@ members:
   - "[[Cliff Williams]]"
   - "[[Phil Rudd]]"
 genre:
-  - "[[Rock]]"
+  - "[[_jick/References/Rock]]"
 year: 1973
 rating: 7
 created: 2024-11-11

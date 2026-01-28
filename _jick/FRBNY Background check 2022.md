@@ -16,7 +16,7 @@ created: 2025-03-24
 
 [#concept](app://obsidian.md/index.html#concept)
 
-- Review past emails: [[FRBNY Background check 2020 Jan A]]
+- Review past emails: [[_jick/FRBNY Background check 2020 Jan A]]
     
 - Need 3-5 references
     
